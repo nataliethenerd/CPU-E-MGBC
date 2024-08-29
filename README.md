@@ -1,3 +1,20 @@
+# Game Boy Pocket Color CPU E ONLY
+
+Just incase you havent read it already, this is CPU E ONLY!!!!! CGB CPU E!
+
+This board was adapted to CPU E by me, Natalie the Nerd. 
+The CGB CPU E has a different pinout to the other varients of the CGB CPUs, I have documented the pinout via the board scans I created [here](https://github.com/nataliethenerd/boardscans/tree/main/CGB-CPU-06)
+
+As a KiCad user, these boards were ported from Bucket Mouse's original Eagle files to KiCad using KiCad's built in converter. I cleaned them up and added the changes.
+
+### MGBC CPU differences
+
+The only differences is there is an added 2.5V LDO and a couple more capacitors and no RAM. Here's the [iBom](https://nataliethenerd.github.io/mgbc-cpue.html)
+
+Now onto the Mouse's original excellent documentation 
+
+![blesshim](https://github.com/user-attachments/assets/d0c1e5a3-aa70-49f6-8867-7be02a11127e)
+
 # Game Boy Pocket Color
 
 ![image](https://user-images.githubusercontent.com/97127539/219991707-c83d69cf-715f-4326-8e82-952a977f087f.png)
