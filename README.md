@@ -9,7 +9,7 @@ As a KiCad user, these boards were ported from Bucket Mouse's original Eagle fil
 
 ### MGBC CPU differences
 
-The only differences is there is an added 2.5V LDO and a couple more capacitors and no RAM. Here's the [iBom](https://nataliethenerd.github.io/mgbc-cpue.html)
+The only differences is there is an added 2.5V LDO (NCP161ASN250T1G) and a couple more capacitors and no RAM. Here's the [iBom](https://nataliethenerd.github.io/mgbc-cpue.html)
 
 Now onto the Mouse's original excellent documentation 
 
